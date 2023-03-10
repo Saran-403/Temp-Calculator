@@ -33,4 +33,4 @@ elif (fah>=100.4) :
 elif (fah<97) :
    print(Name,"'s have a hypothermia")
 else :
-   print("Check the temperature readings correctly")
+   print("Check the temperature readings correctly and enter correct temperature value!")
